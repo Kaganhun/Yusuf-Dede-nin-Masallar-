@@ -1,0 +1,7 @@
+{
+  "name": "Yusuf Dede'nin Masalları",
+  "description": "Çocuklar için hikayeler üreten, sesli okuyan ve anında sihirli resimler oluşturan etkileşimli bir yapay zeka hikaye kitabı.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
